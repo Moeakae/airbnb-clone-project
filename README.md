@@ -24,3 +24,11 @@ When users can quickly use and understand how to search, view listings, and comp
 | Primary Color       |
 | Secondary Color     |
 | Shimmer             |
+### Project Roles and Resposibility
+-Project Manager : responsibile for overseeing projects and managing resources to ensure they are completed on time. Key roles are planning, strategies, management, and evalution.e.t.c
+-Fronted Developers : responsible for building the UI/UX of website or application. Key roles are entry level, mid-level, senior level and full-stack.e.t.c
+-Backend Developers :  responsible for building and maintaining the server-side logic, and APIs that power web mobile application. Key roles are security, server Management, and APIs Development. e.t.c
+-QA/Testers : to ensure the quality and reliability of software application and system. Key roles are test planning, test execution, and designing.e.t.c
+-DevOps Engineers : streamlining software development and deployment process through automation and continuous delivery. Key roles are devops engineer, cloud engineer, and automation Architect.e.t.c
+-Product Manager : to guide a product from concemption to launch and beyond ensuring it delivers value to users and meets business objectives. Key roles are strategies, gathering, and analyzing product.e.t.c
+-Scrum Master : to facilitate the Scrum framework, ensuring the team understands and applies scrun principle. key roles are daily scrum, splint planning, and removing impediments.e.t.c
