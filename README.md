@@ -37,7 +37,7 @@ This section defines the core roles involved in the project and their responsibi
 ### Designers
 -Ensure designs are user-friendly, accessible, and responsive.
 -Collaborate closely with frontend developers to implement design specifications.
--Maintain and evolve the project’s visual identity and branding.
+-Maintain and evolve the projects visual identity and branding.
 
 ### Frontend Developers
 -Build and maintain the user interface using modern frameworks (e.g., React, Vue).
