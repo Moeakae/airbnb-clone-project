@@ -28,7 +28,6 @@ When users can quickly use and understand how to search, view listings, and comp
 This section defines the core roles involved in the project and their responsibilities to ensure clarity, efficiency, and successful delivery.
 
 ### Project Manager
-Responsibilities:
 -Oversees overall project execution and delivery.
 -Creates timelines, tracks progress, and manages budgets.
 -Coordinates between teams and stakeholders.
@@ -36,13 +35,11 @@ Responsibilities:
 -Ensures the project stays aligned with goals and deadlines.
 
 ### Designers
-Responsibilities:
 -Ensure designs are user-friendly, accessible, and responsive.
 -Collaborate closely with frontend developers to implement design specifications.
 -Maintain and evolve the project’s visual identity and branding.
 
 ### Frontend Developers
-Responsibilities:
 -Build and maintain the user interface using modern frameworks (e.g., React, Vue).
 -Integrate designs provided by the design team.
 -Ensure responsive and cross-browser compatible interfaces.
@@ -50,34 +47,29 @@ Responsibilities:
 -Collaborate with backend developers for data integration via APIs.
 
 ### Backend Developers
-Responsibilities:
 -Design, develop, and maintain server-side logic and databases.
 -Create and document RESTful APIs or GraphQL endpoints.
 -Ensure data security, scalability, and performance.
 -Collaborate with frontend developers and DevOps for system integration.
 
 ### QA/Testers
-Responsibilities:
 -Design and execute test cases (manual and automated).
 -Identify, document, and report bugs and issues.
 -Ensure software quality and alignment with requirements.
 
 ### DevOps Engineers
-Responsibilities:
 -Set up and maintain CI/CD pipelines.
 -Manage cloud infrastructure and deployment processes.
 -Monitor application performance and uptime.
 -Ensure secure and scalable production environments.
 
 ### Product Owner
-Responsibilities:
 -Defines and prioritizes product features and requirements.
 -Maintains the product backlog and accepts deliverables.
 -Acts as the main point of contact for stakeholder needs.
 -Ensures the product delivers value to users and aligns with business goals.
 
 ### Scrum Master
-Responsibilities:
 -Facilitates Agile ceremonies (daily stand-ups, sprint planning, reviews, retrospectives).
 -Removes team blockers and ensures adherence to Agile practices.
 -Supports team productivity and promotes a culture of continuous improvement.
