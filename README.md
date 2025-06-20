@@ -24,56 +24,49 @@ When users can quickly use and understand how to search, view listings, and comp
 | Primary Color       |
 | Secondary Color     |
 | Shimmer             |
-## Project Roles and Resposibilities
+
+## Project Roles and Responsibilities
 This section defines the core roles involved in the project and their responsibilities to ensure clarity, efficiency, and successful delivery.
 
 ### Project Manager
--Oversees overall project execution and delivery.
--Creates timelines, tracks progress, and manages budgets.
--Coordinates between teams and stakeholders.
--Resolves conflicts and removes blockers.
--Ensures the project stays aligned with goals and deadlines.
+- Plans and oversees the project timeline, budget, and milestones.
+- Coordinates tasks among team members and stakeholders.
+- Monitors risks and addresses project-related issues.
 
 ### Designers
--Ensure designs are user-friendly, accessible, and responsive.
--Collaborate closely with frontend developers to implement design specifications.
--Maintain and evolve the projects visual identity and branding.
+- Create user interface mockups and visual assets.
+- Ensure consistent branding and usability across platforms.
+- Collaborate with frontend developers to implement designs.
 
 ### Frontend Developers
--Build and maintain the user interface using modern frameworks (e.g., React, Vue).
--Integrate designs provided by the design team.
--Ensure responsive and cross-browser compatible interfaces.
--Optimize frontend performance and accessibility.
--Collaborate with backend developers for data integration via APIs.
+- Build interactive UI using technologies like HTML, CSS, and JavaScript frameworks.
+- Integrate frontend with backend APIs.
+- Ensure responsiveness, performance, and accessibility.
 
 ### Backend Developers
--Design, develop, and maintain server-side logic and databases.
--Create and document RESTful APIs or GraphQL endpoints.
--Ensure data security, scalability, and performance.
--Collaborate with frontend developers and DevOps for system integration.
+- Develop server-side logic and database schemas.
+- Build and maintain APIs and application logic.
+- Ensure data security and system scalability.
 
 ### QA/Testers
--Design and execute test cases (manual and automated).
--Identify, document, and report bugs and issues.
--Ensure software quality and alignment with requirements.
+- Create and execute manual and automated tests.
+- Identify and report bugs or performance issues.
+- Validate features against requirements.
 
 ### DevOps Engineers
--Set up and maintain CI/CD pipelines.
--Manage cloud infrastructure and deployment processes.
--Monitor application performance and uptime.
--Ensure secure and scalable production environments.
+- Set up CI/CD pipelines and deployment workflows.
+- Manage cloud infrastructure and monitor system health.
+- Implement security and backup protocols.
 
 ### Product Owner
--Defines and prioritizes product features and requirements.
--Maintains the product backlog and accepts deliverables.
--Acts as the main point of contact for stakeholder needs.
--Ensures the product delivers value to users and aligns with business goals.
+- Defines project vision and product requirements.
+- Prioritizes tasks in the product backlog.
+- Ensures features meet business goals and user needs.
 
 ### Scrum Master
--Facilitates Agile ceremonies (daily stand-ups, sprint planning, reviews, retrospectives).
--Removes team blockers and ensures adherence to Agile practices.
--Supports team productivity and promotes a culture of continuous improvement.
--Acts as a bridge between the development team and the Product Owner.
+- Facilitates Agile ceremonies (stand-ups, sprint planning, reviews).
+- Removes team blockers and promotes Agile best practices.
+- Supports team collaboration and continuous improvement.
 
 
 ## UI Component Patterns
@@ -103,4 +96,4 @@ More components will be added as the project evolves, including:
 - **Modal Dialogs (e.g., login, sign-up, date picker)**
 
 These components will follow a consistent design system to provide a seamless user experience.
-go
+
