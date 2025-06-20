@@ -76,3 +76,31 @@ This section defines the core roles involved in the project and their responsibi
 -Acts as a bridge between the development team and the Product Owner.
 
 
+## UI Component Patterns
+This section outlines the core UI components that will be developed for the Airbnb Clone project. These reusable components help ensure a consistent and modular design system across the application.
+
+### Navbar
+- Positioned at the top of the application.
+- Includes logo, navigation links, search bar, and user menu.
+- Responsive design to support desktop and mobile views.
+
+### Property Card
+- Displays property image, name, location, price per night, and rating.
+- Used across property listings and search results.
+- Includes hover effects and clickable area for navigation to property details.
+
+### Footer
+- Positioned at the bottom of the page.
+- Contains links to About, Help, Terms, Privacy, and social media.
+- Responsive layout with organized link sections.
+
+---
+
+More components will be added as the project evolves, including:
+- **Search Filters**
+- **Booking Form**
+- **User Profile Menu**
+- **Modal Dialogs (e.g., login, sign-up, date picker)**
+
+These components will follow a consistent design system to provide a seamless user experience.
+
