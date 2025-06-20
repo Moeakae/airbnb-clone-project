@@ -24,7 +24,7 @@ When users can quickly use and understand how to search, view listings, and comp
 | Primary Color       |
 | Secondary Color     |
 | Shimmer             |
-### Project Roles and Resposibility
+### Project Roles and Resposibilities
 🧑‍💼 Project Manager
 Responsibilities:
 Oversees overall project execution and delivery.
